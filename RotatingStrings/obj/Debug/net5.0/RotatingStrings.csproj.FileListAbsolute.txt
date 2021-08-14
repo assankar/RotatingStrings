@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.exe
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.deps.json
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.runtimeconfig.json
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.dll
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\ref\RotatingStrings.dll
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\bin\Debug\net5.0\RotatingStrings.pdb
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.dll
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\ref\RotatingStrings.dll
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.pdb
+C:\Users\acsankar\source\repos\RotatingStrings\RotatingStrings\obj\Debug\net5.0\RotatingStrings.genruntimeconfig.cache
